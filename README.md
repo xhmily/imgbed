@@ -1,1 +1,1 @@
-# imgbed
+# lucent.blog  图床
